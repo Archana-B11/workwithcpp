@@ -2,4 +2,8 @@ This is our first task.
 
 1. Create any sample file in Git\Work with CPP\workwithcpp location and push it to the repo
 2. Edit  Git set up doc(which is already exist) and commit and push it to the repo
+<<<<<<< HEAD
+3. I followed the above procedure
+=======
 3. Adding new lines
+>>>>>>> 3e945d8cca8242bca239171f05fac2af2f61ac7a
