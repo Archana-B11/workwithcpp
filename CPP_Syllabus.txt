@@ -1,0 +1,11 @@
+CPP Syllabus:
+1.Basics of OOPs Concept
+2.Class,Object,Constructor and Destructor
+3.Operator overloading
+4.Function overloading
+5.Function pointer and class pointer
+6.Functioning of Constructor and its types
+7.Define inheritance and its types
+8.Define Polymorphism and its types
+9.Explain about virtual funtions
+10.Exolain about Abstraction
