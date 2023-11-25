@@ -1,25 +1,4 @@
-CPP Syllabus:
-C++ History
-C++ Features
-C++ Installation
-C++ Program
-C++ cout, cin, endl
-C++ Variable
-C++ Data types
-C++ Keywords
-C++ Operators
-C++ Identifiers
-C++ Expression
-C++ Control Statement
-C++ if-else
-C++ switch
-C++ For Loop
-C++ While Loop
-C++ Do-While Loop
-C++ Break Statement
-C++ Continue Statement
-C++ Goto Statement
-C++ Comments
+Day1:
 C++ Functions
 C++ Functions Call by value & reference
 C++ Recursion
@@ -27,6 +6,8 @@ C++ Storage Classes
 C++ Arrays
 C++ Arrays
 C++ Array to Function Multidimensional Arrays
+
+Day2:
 C++ Pointers
 C++ Pointers
 sizeof() operator in C++
@@ -37,7 +18,10 @@ Function Pointer in C++
 C++ Memory Management
 malloc() vs new in C++
 free vs delete in C++
-C++ Object Class
+
+
+Day3:
+++ Object Class
 C++ OOPs Concepts
 C++ Object Class
 C++ Constructor
@@ -45,36 +29,25 @@ C++ Copy Constructor
 C++ Destructor
 C++ this Pointer
 C++ static
-C++ Structs
+
+
+Day4:
+C++ Structures
+C++ Unions
 C++ Enumeration
 C++ Friend Function
 C++ Math Functions
+
+Day5-8:
+C++ Encapsulation
 C++ Inheritance
-C++ Inheritance
-C++ Aggregation
-C++ Polymorphism
 C++ Polymorphism
 C++ Overloading
 C++ Overriding
 C++ Virtual Function 
 C++ Abstraction
-C++ Interfaces
-C++ Data Abstraction
-C++ Namespaces
-C++ Strings
-C++ Strings
-C++ Exceptions
-C++ Exception Handling
-C++ try/catch
-C++ User-Defined
-C++ Templates
-C++ Templates
-Signal Handling
-C++ Signal Handling
-C++ File & Stream
-C++ File & Stream
-C++ getline()
-C++ int to string
+
+Day9-11:
 Structure vs Class in C++
 Virtual Destructor in C++
 Constructor vs Destructor in C++
@@ -82,26 +55,4 @@ Bit manipulation C++
 What is a reference variable
 Inline function in C++
 Virtual function vs Pure virtual function in C++
-How to Split strings in C++
-Range-based for loop in C++
-Type Conversion in C++
-Convert string to integer in C++
-C++ STL Tutorial
-C++ STL Components
-C++ Vector
-Initialize Vector in C++
-C++ Deque
-C++ List
-C++ Set
-C++ Stack
-C++ Queue
-C++ Priority Queue
-C++ Map
-C++ Multimap
-C++ Bitset
-C++ Algorithm
-C++ Iterators
-C++ Bidirectional Iterator
-C++ Forward Iterator
-C++ Input Iterator
-C++ Output Iterator
+

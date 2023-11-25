@@ -1,0 +1,10 @@
+Topics to be covered:
+
+1. Git
+2. IELTS
+3. Bits Pilani
+4. AI tool
+5. Debuggers
+6. Python
+7. CPP
+8. DSA and OS
