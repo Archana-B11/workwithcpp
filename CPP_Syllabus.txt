@@ -21,7 +21,7 @@ free vs delete in C++
 
 
 Day3:
-++ Object Class
+C++ Object Class
 C++ OOPs Concepts
 C++ Object Class
 C++ Constructor
